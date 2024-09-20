@@ -1,0 +1,2 @@
+"INitiating the data collection for machine learning project"
+  
